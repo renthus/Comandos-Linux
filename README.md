@@ -8,8 +8,6 @@
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-- [Desenvolvedores](#desenvolvedores)
-
 ## Descrição do curso 
 
 ## Funcionalidades
