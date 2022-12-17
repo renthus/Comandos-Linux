@@ -42,3 +42,7 @@
 > Ação: retorna alguns exemplos do comando. <br>
 > Ex.: `root@comandoslinux:~# info whoami` <br>
 > Instalação: `root@comandoslinux:~# sudo apt install info`.
+
+### Comando: `help` <br>
+> Ação: retorna uma ajuda rápida do comando. <br>
+> Ex.: `root@comandoslinux:~# ls --help`.
