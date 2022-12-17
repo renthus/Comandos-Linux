@@ -1,20 +1,17 @@
-# Curso de Linux Essentials - LPI
+# Linux Essentials - LPI
 
 ## Tópicos 
 
-- [Descrição do curso](#descrição-do-curso)
-
-- [Funcionalidades](#funcionalidades)
+- [Comandos Linux](#comandos-linux)
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-## Descrição do curso 
+## Comandos Linux 
 
-## Funcionalidades
-
-:heavy_check_mark: `Funcionalidade 1:`
+Comandos essenciais do Linux.
 
 ## Tecnologias utilizadas
 <p>
 <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </p>
