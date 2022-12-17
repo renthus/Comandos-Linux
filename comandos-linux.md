@@ -12,3 +12,7 @@ Comando: `whoami` <br>
 Ação: identifica quem é o usuário ativo. <br>
 Ex.: `root@comandoslinux:~# whoami` <br>
 <br><br>
+Comando: `pwd` <br>
+Ação: exibe o caminho em que o usuário ativo está. <br>
+Ex.: `root@comandoslinux:~# pwd` <br>
+<br><br>
