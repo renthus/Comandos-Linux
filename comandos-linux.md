@@ -1,12 +1,12 @@
 # Comandos-Linux
 
 '
-Comando: `/`
+Comando: `/` <br>
 Ação: É a raíz do sistema
 '
 <br>
 '
-Comando: `cd`
+Comando: `cd` <br>
 Ação: Muda de diretório
 '
-
+<br>
