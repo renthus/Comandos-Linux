@@ -20,3 +20,7 @@ Comando: `ls` <br>
 Ação: listagem do conteúdo de um diretório. <br>
 Ex.: `root@comandoslinux:~# ls` | `root@comandoslinux:~# ls -lah` <br>
 <br><br>
+Comando: `history` <br>
+Ação: mostra o histórico dos comandos digitados. <br>
+Ex.: `root@comandoslinux:~# history` <br>
+<br><br>
