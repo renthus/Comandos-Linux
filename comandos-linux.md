@@ -18,6 +18,5 @@ Ex.: `root@comandoslinux:~# pwd` <br>
 <br><br>
 Comando: `ls` <br>
 Ação: listagem do conteúdo de um diretório. <br>
-Ex.: `root@comandoslinux:~# ls` <br>
-     `root@comandoslinux:~# ls -lah` <br>
+Ex.: `root@comandoslinux:~# ls` | `root@comandoslinux:~# ls -lah` <br>
 <br><br>
