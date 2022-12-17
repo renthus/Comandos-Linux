@@ -23,4 +23,6 @@ Ex.: `root@comandoslinux:~# ls` | `root@comandoslinux:~# ls -lah` <br>
 Comando: `history` <br>
 Ação: mostra o histórico dos comandos digitados. <br>
 Ex.: `root@comandoslinux:~# history` <br>
+Aplicação: depois de exibir o histórico, vc digita ! + número do comando. <br>
+Ex.: `root@comandoslinux:~# !10` <br> 
 <br><br>
