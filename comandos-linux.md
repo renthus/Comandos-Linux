@@ -2,29 +2,29 @@
 
 ### Comando `cd` <br>
 > Ação: faz a mudança de diretório <br>
-> Ex.: `root@comandoslinux:~# cd /`
+> Ex.: `root@comandoslinux:~# cd /`.
 
 ### Comando: `/` <br>
 > Ação: é a raíz do sistema. <br>
-> Ex.: `root@comandoslinux:~# cd /`
+> Ex.: `root@comandoslinux:~# cd /`.
 
 ### Comando: `whoami` <br>
 > Ação: identifica quem é o usuário ativo. <br>
-> Ex.: `root@comandoslinux:~# whoami`
+> Ex.: `root@comandoslinux:~# whoami`.
 
 ### Comando: `pwd` <br>
 > Ação: exibe o caminho em que o usuário ativo está. <br>
-> Ex.: `root@comandoslinux:~# pwd`
+> Ex.: `root@comandoslinux:~# pwd`.
 
 ### Comando: `ls` <br>
 > Ação: listagem do conteúdo de um diretório. <br>
-> Ex.: `root@comandoslinux:~# ls` | `root@comandoslinux:~# ls -lah`
+> Ex.: `root@comandoslinux:~# ls` | `root@comandoslinux:~# ls -lah`.
 
 ### Comando: `history` <br>
 > Ação: mostra o histórico dos comandos digitados. <br>
 > Ex.: `root@comandoslinux:~# history` <br>
 > Aplicação: depois de exibir o histórico, vc digita ! + número do comando. <br>
-> Ex.: `root@comandoslinux:~# !10`
+> Ex.: `root@comandoslinux:~# !10`.
 
 ### Comando: `type` <br>
 > Ação: identifica o tipo de comando. <br>
@@ -36,4 +36,9 @@
 > Ex.: `root@comandoslinux:~# man ls` <br>
 > Aplicação: para ter acesso ao manual de um determinado comando. <br><br>
 > Observação:<br>
-> (1) Para instalação de pacotes no Debian: `root@comandoslinux:~# apt install man-db`
+> (1) Para instalação de pacotes no Debian: `root@comandoslinux:~# apt install man-db`.
+
+### Comando: `info` <br>
+> Ação: retorna alguns exemplos do comando. <br>
+> Ex.: `root@comandoslinux:~# info whoami` <br>
+> Instalação: `root@comandoslinux:~# sudo apt install info`.
