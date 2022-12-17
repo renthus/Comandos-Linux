@@ -26,3 +26,8 @@ Ex.: `root@comandoslinux:~# history` <br>
 Aplicação: depois de exibir o histórico, vc digita ! + número do comando. <br>
 Ex.: `root@comandoslinux:~# !10` <br> 
 <br><br>
+Comando: `type` <br>
+Ação: identifica o tipo de comando. <br>
+Ex.: `root@comandoslinux:~# type whoami` <br>
+Aplicação: para saber se o comando é `embutido no núcleo (kernel)` ou do `Sistema Operacional`. <br> 
+<br><br>
