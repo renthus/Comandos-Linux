@@ -1,4 +1,4 @@
-# Comandos-Linux
+# Comandos-Linux <img align="center" alt="Renato-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 Comando `cd` <br>
 Ação: faz a mudança de diretório <br>
