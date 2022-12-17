@@ -2,7 +2,7 @@
 
 Comando `cd` <br>
 Ação: faz a mudança de diretório <br>
-Ex.: `root@comandoslinux:~# cd /`
+Ex.: `root@comandoslinux:~# cd /` <br>
 <br><br>
 Comando: `/` <br>
 Ação: é a raíz do sistema. <br>
