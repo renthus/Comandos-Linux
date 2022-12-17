@@ -16,3 +16,8 @@ Comando: `pwd` <br>
 Ação: exibe o caminho em que o usuário ativo está. <br>
 Ex.: `root@comandoslinux:~# pwd` <br>
 <br><br>
+Comando: `ls` <br>
+Ação: listagem do conteúdo de um diretório. <br>
+Ex.: `root@comandoslinux:~# ls` <br>
+     `root@comandoslinux:~# ls -lah` <br>
+<br><br>
