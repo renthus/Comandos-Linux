@@ -31,3 +31,10 @@ Ação: identifica o tipo de comando. <br>
 Ex.: `root@comandoslinux:~# type whoami` <br>
 Aplicação: para saber se o comando é `embutido no núcleo (kernel)` ou do `Sistema Operacional`. <br> 
 <br><br>
+Comando: `man` <br>
+Ação: mostra o manual do comando. <br>
+Ex.: `root@comandoslinux:~# man ls` <br>
+Aplicação: para ter acesso ao manual de um determinado comando. <br><br>
+Observação:<br>
+(1) Para instalação de pacotes no Debian: `apt install man-db` <br>
+<br><br>
