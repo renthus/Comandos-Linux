@@ -49,6 +49,6 @@
 
 ### Comando: `locate` <br>
 > Ação: localiza todas as ocorrências com um determinado nome pesquisado. <br>
-> Ex.: `root@comandoslinux:~# locate <nome a ser pesquisado>`.
-> Instalação: `root@comandoslinux:~# sudo apt install locate`.
+> Ex.: `root@comandoslinux:~# locate <nome a ser pesquisado>`. <br>
+> Instalação: `root@comandoslinux:~# sudo apt install locate`. <br>
 > Atualização: `root@comandoslinux:~# sudo apt updatedb`.
