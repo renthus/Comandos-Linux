@@ -46,3 +46,9 @@
 ### Comando: `help` <br>
 > Ação: retorna uma ajuda rápida do comando. <br>
 > Ex.: `root@comandoslinux:~# ls --help`.
+
+### Comando: `locate` <br>
+> Ação: localiza todas as ocorrências com um determinado nome pesquisado. <br>
+> Ex.: `root@comandoslinux:~# locate <nome a ser pesquisado>`.
+> Instalação: `root@comandoslinux:~# sudo apt install locate`.
+> Atualização: `root@comandoslinux:~# sudo apt updatedb`.
