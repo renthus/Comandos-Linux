@@ -52,3 +52,15 @@
 > Ex.: `root@comandoslinux:~# locate <nome a ser pesquisado>`. <br>
 > Instalação: `root@comandoslinux:~# sudo apt install locate`. <br>
 > Atualização: `root@comandoslinux:~# sudo apt updatedb`.
+
+### Comando: `.` <br>
+> Ação: local **atual** do diretório onde você está. <br>
+> Ex.: `root@comandoslinux:~# <comando> .`.
+
+### Comando: `..` <br>
+> Ação: local do diretório **anterior** onde você está. <br>
+> Ex.: `root@comandoslinux:~# cd ..`.
+
+### Comando: `-` <br>
+> Ação: retornar ao último diretório onde você estava. <br>
+> Ex.: `root@comandoslinux:~# cd -`.
