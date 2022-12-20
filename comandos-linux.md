@@ -68,3 +68,9 @@
 ### Comando: `mkdir` <br>
 > Ação: criação de diretórios no linux. <br>
 > Ex.: `root@comandoslinux:~# mkdir <nome_do_diretorio>`.
+
+### Comando: `mv` <br>
+> Ação: movendo ou renomeando arquivos no linux. <br>
+> Ex.: `root@comandoslinux:~# mv <origem> <destino>`. <br>
+> Caminho absoluto: ex.: `mv srv/rh/folha/arquivo1.txt/tmp/`. <br>
+> Caminho relativo: ex.: `mv /tmp/arquivo1.txt`.
