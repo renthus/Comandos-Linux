@@ -64,3 +64,7 @@
 ### Comando: `-` <br>
 > Ação: retornar ao último diretório onde você estava. <br>
 > Ex.: `root@comandoslinux:~# cd -`.
+
+### Comando: `mkdir` <br>
+> Ação: criação de diretórios no linux. <br>
+> Ex.: `root@comandoslinux:~# mkdir <nome_do_diretorio>`.
