@@ -76,3 +76,8 @@
 > Ex.: `root@comandoslinux:~# mv <origem> <destino>`. <br>
 > Caminho absoluto: ex.: `mv srv/rh/folha/arquivo1.txt/tmp/`. <br>
 > Caminho relativo: ex.: `mv /tmp/arquivo1.txt`.
+
+### Comando: `touch` <br>
+> Ação: usado para operar informação de data e hora de um arquivo. <br>
+> Ação: se o arquivo não existir, este comando cria o arquivo. <br>
+> Ex.: `root@comandoslinux:~# touch <nome do arquivo>`.
