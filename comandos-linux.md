@@ -81,3 +81,7 @@
 > Ação: usado para operar informação de data e hora de um arquivo. <br>
 > Ação: se o arquivo não existir, este comando cria o arquivo. <br>
 > Ex.: `root@comandoslinux:~# touch <nome do arquivo>`.
+
+### Comando: `rmdir` <br>
+> Ação: usado para remover diretórios vazios. <br>
+> Ex.: `root@comandoslinux:~# rmdir <nome do diretório>`.
