@@ -84,4 +84,8 @@
 
 ### Comando: `rmdir` <br>
 > Ação: usado para remover diretórios vazios. <br>
-> Ex.: `root@comandoslinux:~# rmdir <nome do diretório>`.
+> Ex.: `root@comandoslinux:~# rmdir <nome do diretório>`. <br><br>
+> Opcionais: `-i` <br>
+> Ação: interação, questiona se você realmente deseja remover. <br>
+> Ex.: `root@comandoslinux:~# rm -i <nome do arquivo>`.
+
