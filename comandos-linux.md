@@ -87,5 +87,7 @@
 > Ex.: `root@comandoslinux:~# rmdir <nome do diretório>`. <br><br>
 > Opcionais: `-i` <br>
 > Ação: interação, questiona se você realmente deseja remover. <br>
-> Ex.: `root@comandoslinux:~# rm -i <nome do arquivo>`.
-
+> Ex.: `root@comandoslinux:~# rm -i <nome do arquivo>`. <br><br>
+> Opcionais: `-f` <br>
+> Ação: force, remove sem questionar. <br>
+> Ex.: `root@comandoslinux:~# rm -f <nome do arquivo>`. <br><br>
