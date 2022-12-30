@@ -91,3 +91,6 @@
 > Opcionais: `-f` <br>
 > Ação: force, remove sem questionar. <br>
 > Ex.: `root@comandoslinux:~# rm -f <nome do arquivo>`. <br><br>
+> Opcionais: `-r` <br>
+> Ação: remove diretórios e subdiretórios. <br>
+> Ex.: `root@comandoslinux:~# rm -r <nome do arquivo>`. <br><br>
